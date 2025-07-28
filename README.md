@@ -15,7 +15,7 @@ The result is saved to `output.json` in the project root.
 
 ---
 
-## 📦 Requirements: What You Need to Install
+## Requirements: What You Need to Install
 
 | Purpose                         | Tool Required | Install Link / Command              |
 |----------------------------------|----------------|--------------------------------------|
