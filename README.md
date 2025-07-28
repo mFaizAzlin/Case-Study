@@ -15,6 +15,15 @@ The result is saved to `output.json` in the project root.
 
 ---
 
+## 📦 Requirements: What You Need to Install
+
+| Purpose                         | Tool Required | Install Link / Command              |
+|----------------------------------|----------------|--------------------------------------|
+| Clone the repository             | **Git**        | https://git-scm.com/                 |
+| Run JavaScript file              | **Node.js**    | https://nodejs.org/                  |
+
+---
+
 ## Run Instructions
 
 ## 1. Clone the Repository
