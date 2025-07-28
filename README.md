@@ -10,7 +10,7 @@ The result is saved to `output.json` in the project root.
 
 ## 📁 Files Included
 
-- `bigbang.js` — The Javascript script
+- `case_study.js` — The Javascript script
 - `output.json` — The result
 
 ---
