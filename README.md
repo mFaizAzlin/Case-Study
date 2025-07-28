@@ -22,5 +22,10 @@ The result is saved to `output.json` in the project root.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bigbang-array-generator.git
-cd bigbang-array-generator
+git clone https://github.com/mFaizAzlin/Case-Study.git
+cd Case-Study
+
+### 2. Run the code
+
+```bash
+node case_study.js
