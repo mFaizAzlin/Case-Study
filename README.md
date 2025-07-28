@@ -12,16 +12,8 @@ The result is saved to `output.json` in the project root.
 
 ## 📁 Files Included
 
-- `bigbang.ts` — The TypeScript script
-- `output.json` — The result (auto-generated)
-- `README.md` — This documentation
-
----
-
-## ⚙️ Requirements
-
-- [Node.js](https://nodejs.org/en/) (v14 or newer)
-- [TypeScript](https://www.typescriptlang.org/) (globally installed)
+- `bigbang.js` — The Javascript script
+- `output.json` — The result
 
 ---
 
